@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NetFast</string>
+    <string-array name="plans_array">
+        <item>DATA14</item>
+        <item>DATA40</item>
+        <item>DATA57</item>
+        <item>DATA68</item>
+        <item>DATA78</item>
+        <item>DATA98</item>
+
+    </string-array>
+   <string-array name="plan_descriptions">
+       <item name="DATA14">90 MB for 2 Days</item>
+       <item name="DATA40">200 MB for 6 Days</item>
+       <item name="DATA57">250 MB for 30 Days</item>
+       <item name="DATA68">1 GB for 3 Days</item>
+       <item name="DATA78">1 GB for 5 Days</item>
+       <item name="DATA98">650 MB for 14 Days</item>
+   </string-array>
+
+</resources>
